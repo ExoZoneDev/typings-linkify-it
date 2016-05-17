@@ -2,4 +2,4 @@
 Typings for the linkify-it npm package
 
 ## Install
-`typings install --save github:ExoZoneDev/typings-linkify-it#dc53ce2f60893a6172a40cc2a7733808a7003304`
+`typings install --save github:ExoZoneDev/typings-linkify-it#006c1bfa7e299ca75e98ec66d7d3a422d62496ac`
